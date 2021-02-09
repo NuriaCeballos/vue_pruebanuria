@@ -1,4 +1,4 @@
-# vue_pruebanuria
+# Primeros pasos con VUEjs componentes y rutas
 
 ## Project setup
 ```
